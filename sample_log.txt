@@ -1,0 +1,7 @@
+2026-04-17 09:15:22 INFO User login successful from 192.168.1.10
+2026-04-17 09:16:03 WARNING Failed login attempt from 10.0.0.25
+2026-04-17 09:16:45 WARNING Failed login attempt from 10.0.0.25
+2026-04-17 09:17:10 INFO File opened by user from 192.168.1.15
+2026-04-17 09:18:02 WARNING Failed login attempt from 172.16.0.8
+2026-04-17 09:18:40 WARNING Failed login attempt from 10.0.0.25
+2026-04-17 09:19:12 INFO User logout from 192.168.1.10
